@@ -27,7 +27,3 @@ learning purposes.
 - Credit & debit trends and patterns  
 - KPI tracking and performance monitoring  
 - Interactive dashboards with filters, slicers, and visuals  
-
-
-## Note
-This project is intended for **portfolio showcase and learning purposes** only.
