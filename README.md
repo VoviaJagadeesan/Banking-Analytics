@@ -8,6 +8,7 @@ learning purposes.
 
 # Note:
  Excel dashboard is available in google drive , due to Github file size restrictions.
+ [Download Project Files (Google Drive)](https://drive.google.com/drive/folders/1ZrMd5G9biqEemzoMN32d59Hx-B5O_bAb?usp=drive_link)
 
 # Objectives
 - Prepare, clean, and analyze financial data using **Excel & SQL**.  
